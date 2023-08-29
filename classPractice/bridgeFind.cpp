@@ -36,7 +36,7 @@ void findBridges(){
     }
     cout << "Brideges are" << endl;;
     for( auto node : bridge ){
-        cout << node.first <<" ---- "<< node.second << endl;;
+        cout << node.first <<" ---- "<< node.second << endl;
     }
 }
 int main(){
